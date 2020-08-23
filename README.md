@@ -1,16 +1,28 @@
-### Hi there 👋
+### Hi there, I'm Dương - aka cuncon 👋
 
-<!--
-**cc0x/cc0x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
 
-Here are some ideas to get you started:
+- 🇻🇳 Made in Vietnam
+- 🇯🇵 Found in Japan
+- 🧑🏻‍💻 Write some codes
+- 🔭 I’m currently working on [my block][website]!
+- 🌱 I’m currently learning everything 🤣
+- ❤️  I’m looking for a love
+- 🥅 2020 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love photograph and adventure
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+
+[<img align="left" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="cc0x | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="cc0x | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="cc0x | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
+
+---
+
+[website]: https://cc0x.github.com
+[twitter]: https://twitter.com/__duongvh
+[instagram]: https://instagram.com/duongvh__
+[linkedin]: https://linkedin.com/in/duongvh

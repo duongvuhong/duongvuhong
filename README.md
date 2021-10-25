@@ -5,11 +5,6 @@
 - 🇻🇳 Made in Vietnam
 - 🇯🇵 Found in Japan
 - 🧑🏻‍💻 Write some codes
-- 🔭 I’m currently working on [my block][website]!
-- 🌱 I’m currently learning everything 🤣
-- ❤️  I’m looking for a love
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love photograph and adventure
 
 ### Connect with me:
 
